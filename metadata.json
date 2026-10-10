@@ -1,0 +1,6 @@
+{
+  "name": "Staj & Junior Mülakat ve Kariyer Koçu",
+  "description": "Staj arayan üniversite öğrencileri ve yeni mezunlar için katılımcı unvanına özel mülakat simülatörü ve eğitim içeriklerine göre kariyer gelişim koçu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
